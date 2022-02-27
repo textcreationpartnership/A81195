@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curtain-conference, being a discourse betwixt (the late Lord Lambert, now) Iohn Lambert Esq; and his Lady, as they lay a bed together one night at their house at Wimbleton. Related by the Lady Lambert to Tom Trim, her gentleman usher, (one well acquainted with all her secrets) and now by him printed for publick satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81195</idno>
+            <idno type="STC">Wing C7688</idno>
+            <idno type="STC">Thomason 669.f.23[10]</idno>
+            <idno type="STC">ESTC R24904</idno>
+            <idno type="EEBO-CITATION">99872074</idno>
+            <idno type="PROQUEST">99872074</idno>
+            <idno type="VID">163666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163666)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curtain-conference, being a discourse betwixt (the late Lord Lambert, now) Iohn Lambert Esq; and his Lady, as they lay a bed together one night at their house at Wimbleton. Related by the Lady Lambert to Tom Trim, her gentleman usher, (one well acquainted with all her secrets) and now by him printed for publick satisfaction.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.L. the Common-wealths fortune-teller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire.</note>
+                  <note>Annotation on Thomason copy: "Jan: 23. 1659.".</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (Early English books), and the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambert, John, 1619-1683 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163666:1" rendition="simple:additions"/>
+            <head>A CURTAIN-CONFERENCE, Being a Diſcourſe betwixt (the late Lord <hi>Lambert,</hi> now) Iohn Lambert <abbr>Eſq</abbr> and his Lady, As they lay a Bed together one night at their Houſe at <hi>Wimbleton.</hi>
+            </head>
+            <byline>
+               <hi>Related by the Lady</hi> Lambert <hi>to</hi> Tom Trim, <hi>her Gentleman <g ref="char:V">Ʋ</g>ſher, (one well acquainted with all her Secrets) and now by him Printed for publick ſatisfaction.</hi>
+            </byline>
+            <sp>
+               <speaker>LADY.</speaker>
+               <p>O My Dear Heart, my Love and Joy, my own ſweet <hi>Jonny,</hi> why ſo ſad?</p>
+            </sp>
+            <sp>
+               <speaker>LAMBERT.</speaker>
+               <p>
+                  <hi>Jonny!</hi> I thou mayeſt well call me ſo, for I have made it appear to all the world (For all I was accounted a Grand Polititian) that I am but a <hi>Jonny.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>LA.</speaker>
+               <p>Prithee be of good cheer, (dear Chuck) and receive a little comfort from the embraces of thine own dear Wife, who hath a long time, as a deſolate widow, mourned for want of thee.</p>
+            </sp>
+            <sp>
+               <speaker>LAM.</speaker>
+               <p>Sweet <hi>Jonny,</hi> dear Chuck, and what not? am I not full enough of grief already, but thou the wife of my Boſome, muſt (like the wife of <hi>Job)</hi> add unto mine afflictions, by flouting me with ſuch ridiculous Titles, as <hi>Jonny</hi> and Chuck, which in plain Engliſh is no more then Fool or Chicken.</p>
+            </sp>
+            <sp>
+               <speaker>LA.</speaker>
+               <p>Tis a wonder to me (ſweet heart) that you are thus tranſported with paſſion; I did not expect ſuch ſtrange kind of greeting after ſo long abſence: I pray be contented with Gods providence, you know that the <hi>Saints</hi> muſt ſuffer afflictions in this world.</p>
+            </sp>
+            <sp>
+               <speaker>LAMB.</speaker>
+               <p>
+                  <hi>Saints!</hi> what doſt thou tell me of <hi>Saints,</hi> who am as much a <hi>Saint</hi> as my horſe; For all my zealous pretence to Religion, I expect my Portion in in this world, and let who will take the other for me.</p>
+            </sp>
+            <sp>
+               <speaker>LADY.</speaker>
+               <p>Why? but (my Joy) pluck up thy heart, thy caſe is not ſo bad yet, but it may alter for the better: Thou maiſt become a Lord again in time, although thou art now but <hi>J. Lamb.</hi> 
+                  <abbr>Eſq</abbr> And as for me, I think I may deſerve the name of a Lady as long as I live by the vertue of Old <hi>Nolls</hi> breeches: But he is dead and gone, and I am here, and who knows but I may once more live under a Pro<g ref="char:EOLhyphen"/>tector, which may chance to be thy ſelf, for all the Parliament is now Rampant?</p>
+            </sp>
+            <sp>
+               <speaker>LAMB.</speaker>
+               <p>Away fool, away, I have not patience to hear thee longer building caſtles in the aire, and like the poor <hi>Cavaliers,</hi> flattering thy ſelf with vain hopes, which are never likely to come to paſſe. I confeſſe I ever thought to make my ſelf great: And all my actions under what pretence ſoever, were directed at the Butt of mine own Intereſt; And when I turn'd out the preſent Parliament, I did believe I had laid a good Foundation to my own Ambition, and thought my ſelf but a ſtep or two below the Soveraignty; but my waxen wings were ſo frozen, by the frigidity of the Northern climate, that I could not move them, but was forced to fall to the ground, and now muſt ſuffer diſgrace for my aſpiring deſires, being made a laughing ſtock before the whole world. But it doth not grieve me ſo much to be Jeered by the <hi>Cavaliers</hi> (of whom I deſerve no otherwiſe) as to be flerted by ſuch ſilly Rogues as the time-ſerving News-mongers, who are the Heliotropes that turn about with every Baſtard Sun that ſhines in the Firmament of Government. But ſome ſay Col. <hi>Hewſon</hi> muſt be han<g ref="char:EOLhyphen"/>ged for murder if he be catcht: And faith I think it good Policy for me to hang my ſelf: For ſo I ſhall not onely cheat <hi>CHARLES ST<g ref="char:V">Ʋ</g>ART,</hi> but the Parliament alſo of their revenge, and then I ſhall be rancked with Alderman <hi>Hoyle</hi> in <hi>Monte<g ref="char:EOLhyphen"/>lions Calender</hi> for the next year: For notwithſtanding the <hi>Act</hi> of <hi>Indemnity,</hi> I fear I ſhall be fetch't o're the Coales, ere it be long, and Col. <hi>Berry</hi> will not ſcape e'm for all they are the Badge of his gentility.</p>
+            </sp>
+            <sp>
+               <speaker>LA.</speaker>
+               <p>But hold, my dear, be not ſo deſparate as to entertaine ſuch thoughts, but hope the beſt: Be<g ref="char:EOLhyphen"/>ſides, it is not your condition alone, but divers others are cloud<g ref="char:EOLhyphen"/>ed as well as you, and ſome eminent perſons, as Sir <hi>Henry Vane,</hi> and the Lord <hi>Fleetwood.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>LAMB.</speaker>
+               <p>Sir <hi>Henry Vane</hi> is now be<g ref="char:EOLhyphen"/>come Vayne Sir <hi>Henry,</hi> his wiſdome hath deceived him, as well as mine did me. And to ſay truth, the wiſeſt of men may miſſe it ſometimes. But as for <hi>Fleetwood,</hi> he is but a Fool, and I never eſteemed otherwiſe of him; For my intention was to make a Stalking-horſe of him, or (if you will) a Stirrop where<g ref="char:EOLhyphen"/>by to mount into the Saddle of Supremacy: But I was diſap<g ref="char:EOLhyphen"/>poynted by the activity of Sir <hi>Arthur Haſlerig</hi> and his complices whoſe ſubtilty I never dream't of: But as for the City I never was in fear of it: For a verier Fool then <hi>Fleetwood</hi> is able to keep them under, ſo long as a Red-coat remains in it. Yet, to ſpeak as I think, if they had but a reſolute Lord Major, they would bite, as well as barke. And now I ſpeak of the Lord Major, I would I were in his Coate: For notwithſtanding he hath loſt as fair opportunities as poſſibly could be deſired to free the City from ſlavery, yet, I could find a way whereby ſtill he might aſſert his <hi>De<g ref="char:EOLhyphen"/>claration</hi> of <hi>Decemb.</hi> 20. yea, and bring it to paſſe, in ſpight of this cantell of a Parliament now ſitting at <hi>Weſtminſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>LA.</speaker>
+               <p>But good Husband, ſince you are ſo wiſe in the affaires of others, I wonder why you were ſo ſlur'd in your own concerns: You might have plaid Have at All, and fought with <hi>Monck,</hi> or you might have declared for a Free Parliament, and ſo have made not only the City, but the whole Nation your Friends: Nay, had I been as you, before I would have ſubmitted to the mercy of mine enemies, I would have renounced all my former actions, and have de<g ref="char:EOLhyphen"/>clared for <hi>CHARLES ST<g ref="char:V">Ʋ</g>ART.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>LA.</speaker>
+               <p>Introth wife, thy pride and haughtineſſe hath ever been a Spur to my ambitious attempts; and it had not been amiſſe if I had made uſe of thy helpe in the proſecution of them, ſince at a dead lift, there's no wit like the wit of a woman: But now thou ſpeak'ſt of <hi>CHARLES ST<g ref="char:V">Ʋ</g>ART,</hi> I was adviſed by a wiſe man, aſſoon as I had turned out the Parliament, to ſend for him in; the refuſal of which Council I now too late repent: I confeſſe (deare wife) that any of theſe wayes might poſſibly have prevented my ruine; Or I might have aſſerted Liberty of Conſcience, and then all the Sectaries in the Nation, <hi>viz. Quakers, Anabaptiſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> &amp;c. would have flocked unto me as Bees to their Hives: And I ſhould have been looked upon as another <hi>John Baptiſt,</hi> and fore-runner of Jeſus Chriſt, by the Fift Monarchy party, who ex<g ref="char:EOLhyphen"/>ſpect his perſonal Raign on Earth, the time of his comming being ſo neer, that Major General <hi>Overton,</hi> looks every day for his Landing at <hi>Hull.</hi> But what the Devil do I talke of what I might have done, ſince now I am undone? I ſhould rather think of ſome way to avoyd the ſtorme impending over me: But there's now no meanes left whereby I might helpe my ſelfe, but meerly to rely on the mercy of the Parliament, which I hope to find, being comprized within the late Act of Indemnity. But ſome may wonder why thoſe that Engaged with <hi>Booth,</hi> ſhould loſe their Eſtates as Rebels, and Traytors, and that I and my Confederates, who really effected, what <hi>Booth</hi> and his party but barely attempted, ſhould notwithſtanding hold our own, as if we never had offended: Why, I muſt tell thee, wife, that there is great reaſon it ſhould be ſo: For as the <hi>Jſraelites</hi> ſpoyled the <hi>Egyptians,</hi> ſo it is lawful for us, who ſtile our ſelves the Saints, and people of God, to rob and ruine the <hi>Cavaliers,</hi> with all that adhere unto them: And although we are divided into many Facti<g ref="char:EOLhyphen"/>ons, each ſtriving to be greater then other; yet, ſince we are Brethren, as <hi>Simeon</hi> and <hi>Levi</hi> were, we ought not to proſecute one another to the de<g ref="char:EOLhyphen"/>privation of Life or Eſtate. But for all this I know not what the Parlia<g ref="char:EOLhyphen"/>ment means, no more then they know what <hi>Monck</hi> meanes, in coming to wait on them with an Army at his Heeles. He is a cunning Fox, and had need look well to himſelfe, or they will Lurch him in the End, as well as they have me. I feare I ſhall go to Lobs pound very ſhortly, and, it may be to the Gallowes after: But ti's good enough for me; I might have taken time by the fore-lock, If I had looked well about me: They ſay every dog has his day, and ſo I had mine, if I could have made good uſe of it. But I find <hi>Morpheus</hi> is ready to lock up my ſences, and to give a little reſt to my reſtleſſe mind: wherefore I ſay no more, but
+<q>
+                     <l>Let him who thinks he ſtands, a fall beware,</l>
+                     <l>Since Craftieſt Knaves are caught in their own Snare.</l>
+                  </q>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. L.</hi> the Common-Wealths Fortune-Teller.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
